@@ -1,3 +1,3 @@
 # Fundo
 Blender project
-![GameOver](https://github.com/nour3adel/BlackJack/blob/main/screenshots/4.jpg "GameOver")
+![GameOver]("Project blender (render).png")
